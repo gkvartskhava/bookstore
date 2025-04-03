@@ -5,7 +5,7 @@ from rest_framework import viewsets
 from rest_framework import status
 from rest_framework.response import Response
 from rest_framework.authtoken.models import Token
-from .serializers import AuthorSerializer, BookSerializer
+from .serializers import *
 from rest_framework import permissions
 
 
