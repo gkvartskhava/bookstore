@@ -70,4 +70,4 @@ python manage.py runserver
 
 ---
 
-Made with ❤️  Django.
+Made with  Django Rest Framework 
